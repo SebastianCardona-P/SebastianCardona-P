@@ -55,4 +55,8 @@
 <div align="left">
 </div>
 
+
+<h2>Mis contribuciones:</h2>
+<img src="https://raw.githubusercontent.com/SebastianCardona-P/SebastianCardona-P/output/snake.svg" alt="Snake animation" />
+
 ###
